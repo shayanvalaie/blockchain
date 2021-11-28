@@ -84,8 +84,8 @@ def verify_chain():
 waiting_for_input = True
 
 while waiting_for_input:
-    print('Please choose')
-    print('1: Add a new transaction value')
+    print('Please choose:')
+    print('1: Add a new transaction value please')
     print('2: Output the blockchain blocks')
     print('h: Manipulate the chain')
     print('q: Quit')
